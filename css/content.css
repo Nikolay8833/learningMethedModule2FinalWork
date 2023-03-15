@@ -1,0 +1,32 @@
+.content {
+  max-width: 1200px;
+  padding: 0 30px;
+  margin: 0 auto 50px;
+  background-color: #F1F1F1;
+}
+
+.content__title {
+  font-weight: 700;
+  font-size: 44px;
+  padding-top: 25px;
+  padding-left: 45px;
+  margin-bottom: 30px;
+}
+
+.content__list {
+  padding-left: 65px;
+  padding-bottom: 25px;
+}
+
+.content__item {
+  color: #02535F;
+  margin-bottom: 10px;
+}
+
+.content__item:last-child {
+  margin-bottom: 0;
+}
+
+.content__link {
+  border-bottom: 1px solid #02535F;
+}

@@ -1,0 +1,19 @@
+.first {
+  padding-top: 60px;
+  margin-bottom: 50px;
+}
+
+.page__title {
+  font-weight: 900;
+  font-size: 60px;
+  margin-bottom: 30px;
+  line-height: 120%;
+}
+
+.first__text {
+  margin-bottom: 30px;
+}
+
+.first__text:last-child {
+  margin-bottom: 0;
+}
