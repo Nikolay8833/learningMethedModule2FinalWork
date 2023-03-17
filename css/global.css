@@ -20,6 +20,10 @@ body {
   color: #000000;
 }
 
+section {
+  padding: 25px 0;
+}
+
 img, svg {
   max-width: 100%;
   max-height: 100%;

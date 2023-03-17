@@ -1,12 +1,8 @@
-.third {
-  margin-bottom: 50px;
-}
-
 .third__wrapper {
   margin-bottom: 30px;
 }
 
-.third__wrapper--margin-bottom {
+.third__wrapper:last-child {
   margin-bottom: 0;
 }
 
@@ -20,7 +16,7 @@
   margin-bottom: 30px;
 }
 
-.third__text--margin-bottom {
+.third__text:last-child {
   margin-bottom: 0;
 }
 

@@ -8,6 +8,10 @@
   margin-bottom: 30px;
 }
 
+.fourth__wrapper:last-child {
+  margin-bottom: 0;
+}
+
 .fourth__text {
   margin-bottom: 30px;
 }
