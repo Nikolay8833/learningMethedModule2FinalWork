@@ -1,6 +1,6 @@
 .content__container {
   max-width: 1200px;
-  padding: 0 30px;
+  padding: 25px 75px ;
   margin: 0 auto;
   background-color: #F1F1F1;
 }
@@ -8,20 +8,26 @@
 .content__title {
   font-weight: 700;
   font-size: 44px;
-  padding-top: 25px;
-  padding-left: 45px;
-  margin-bottom: 20px;
 }
 
 .content__list {
-  padding-left: 65px;
-  padding-bottom: 25px;
+  padding-top: 20px;
+  padding-left: 20px;
   margin: 0;
+}
+
+.content__list--style {
+  list-style: none;
+  padding-left: 0;
 }
 
 .content__item {
   color: #02535F;
   margin-bottom: 10px;
+}
+
+.content__item--black {
+  color: #000000;
 }
 
 .content__item:last-child {
@@ -30,4 +36,8 @@
 
 .content__link {
   border-bottom: 1px solid #02535F;
+}
+
+.content__text {
+  padding-top: 30px;
 }

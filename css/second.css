@@ -1,9 +1,3 @@
-.second__title {
-  font-weight: 900;
-  font-size: 36px;
-  margin-bottom: 30px;
-}
-
 .second__wrapper {
   display: flow-root;
 }
@@ -11,20 +5,13 @@
 .second__img1 {
   max-width: 560px;
   float: left;
-  margin-right: 30px;
-  margin-bottom: 30px;
-}
-
-.second__item {
-  margin-bottom: 30px;
-}
-
-.second__item:last-child {
-  margin-bottom: 0;
+  margin-right: 40px;
+  padding-top: 30px;
 }
 
 .second__img2 {
   max-width: 560px;
   float: right;
-  padding-left: 40px;
+  margin-left: 40px;
+  padding-top: 30px;
 }

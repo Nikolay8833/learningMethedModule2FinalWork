@@ -99,12 +99,23 @@ iframe {
   margin: 0 auto;
 }
 
-/* .second-title {
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 50px;
-  text-align: center;
-  text-transform: uppercase;
-  padding-top: 100px;
-  margin-bottom: 60px;
-} */
+.page__title {
+  font-weight: 900;
+  font-size: 60px;
+}
+
+.page__subtitle {
+  font-weight: 900;
+  font-size: 36px;
+}
+
+.page__text {
+  padding-top: 30px;
+}
+
+.page__img {
+  max-width: 1080px;
+  display: block;
+  margin: 0 auto; 
+  padding-top: 30px;
+}

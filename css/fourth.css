@@ -1,59 +1,23 @@
-.fourth__title {
-  font-weight: 900;
-  font-size: 36px;
-  margin-bottom: 30px;
+.page__img--padding {
+  padding-top: 0;
 }
 
-.fourth__wrapper {
-  margin-bottom: 30px;
-}
-
-.fourth__wrapper:last-child {
-  margin-bottom: 0;
-}
-
-.fourth__text {
-  margin-bottom: 30px;
-}
-
-.fourth__img1 {
+.page__img--img1 {
   max-width: 600px;
-  display: block;
-  margin: 0 auto; 
 }
 
-.fourth__img2 {
+.page__img--img2 {
   max-width: 600px;
-  display: block;
-  margin: 0 auto 30px; 
-}
-
-.fourth__img3 {
-  max-width: 1080px;
-  display: block;
-  margin: 0 auto; 
-}
-
-.fourth__img5 {
-  max-width: 1080px;
-  display: block;
-  margin: 0 auto 30px; 
 }
 
 .fourth__img6 {
   max-width: 800px;
-  display: block;
-  margin: 0 auto 30px; 
 }
 
 .fourth__img7 {
   max-width: 315px;
-  display: block;
-  margin: 0 auto; 
 }
 
 .fourth__img8 {
   max-width: 500px;
-  display: block;
-  margin: 0 auto; 
 }
